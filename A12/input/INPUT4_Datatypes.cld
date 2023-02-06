@@ -1,0 +1,12 @@
+# Cloud Example 5
+
+function Main()
+       Int FoundationYear;
+       Float Area,HDI;
+       String CountryName;
+       FoundationYear=-7000;
+       Area=492.0;
+       HDI=0.871;
+       CountryName = 'Bulgary';
+       print(CountryName);
+end;

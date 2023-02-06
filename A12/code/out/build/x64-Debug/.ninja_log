@@ -1,0 +1,5 @@
+# ninja log v5
+8	286	6972969993209190	CMakeFiles/Cloud.dir/Compilers.c.obj	c9bf07432bf6fbc1
+12	288	6972969993219185	CMakeFiles/Cloud.dir/Reader.c.obj	3d48a661802e5bab
+14	293	6972969993289230	CMakeFiles/Cloud.dir/MainReader.c.obj	49089d03c719c0ab
+293	676	6972969996809191	Cloud.exe	78f6bb6d6f32674

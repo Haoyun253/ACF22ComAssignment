@@ -1,0 +1,48 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@                                                               @@@@
+@@          /        ==============================        /         @@
+@         ////           @@       @@  #@                  ////        @
+@         ////*          @@ @%  @ @@     @@  @ #@#       /////        @
+@     ((( ////))))   @@  @% @%  @ @@  #@ @@  @ #@@#   ///////( ///    @
+@     ((((, / )))))   @@@@   @@@  @@  ##  @@@   #@#   ///// ,/////    @
+@     (((((/ )))((   ==============================   ((((./////*     @
+@   *//*./ /  .///   ===  PROGRAMMING LANGUAGE  ===  ////   / ( (//   @
+@    ///// / /////   ==============================  *////* / ////    @
+@     ///// ///// ((                               (( ///// /////     @
+@    ((((/ , (((((                                (((((  //   /(((    @
+@    (((((((/ . (((((                             ((((( */ (((((((    @
+@      (((((( //((((/((((                    *((((/((((/( (((((/      @
+@       .//,   */    (((((                   (((((  ///    .//.       @
+@      ,////////./(  (((((*////         (///(((((( ,/(,////////       @
+@         //////// ,// ((( /////,     ////// ((( //  ///////*         @
+@            (((((((((,//  */////     /////   (//(((((((((            @
+@            (((((((((((  (/////       //.///  (((((((((((.           @
+@                   (///////// //(   (//.//////////                   @
+@                  (/////////             //////////                  @
+@                                                                     @
+@@          A L G O N Q U I N   C O L L E G E  -  2 0 2 3 W          @@
+@@@@                                                               @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+[Option 'R': Starting READER .....]
+
+Reading file INPUT6_Err1Reader.cld ....Please wait
+The input file INPUT6_Err1Reader.cld has not been completely loaded.
+Current size of buffer: 250.
+Last character read from the input file is: € -128
+Input file size: 226
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  250
+The current size of the buffer is:  96
+The operational mode of the buffer is: F
+The increment factor of the buffer is:  10
+The first symbol in the buffer is:  !
+The value of the flags field is: 04
+Number of different chars read: 96
+Number of errors: 1
+
+Printing buffer contents:
+
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ 
