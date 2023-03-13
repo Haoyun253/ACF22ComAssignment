@@ -1,0 +1,4 @@
+Executable script files are included in the input folder.
+Five files are provided as input tests, and err and out files will be generated after running the bat file.
+The first file is an empty file; the second file is a helloword program; the third is a volume calculation program;
+The fourth is a factorial program; the fifth is a program for testing data types;

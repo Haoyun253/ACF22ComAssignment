@@ -1,0 +1,26 @@
+function Main()
+       Int i;
+       Float a, sum008;
+       String text;
+       a=a+1.2;
+       sum008 = 7.87050;
+       readline(a,sum008);
+       i=0;
+       while (i < 32767 .or. i == 32767)
+	i = i + 2;
+	a = a * i/0.5;
+	sum008 =sum008 + a - 1;
+       end;
+       if (text == '')then 
+	text = 'prog' + 'ram';
+       end;
+       else 
+	text = text + 'ram';
+       end;
+       print('\* This is a program -:)-<-<-- \*');
+       print(text);
+       if (text <> 'program' && sum008==8.0 || i>10) then 
+	print(sum008);
+	print();
+       end;
+end;

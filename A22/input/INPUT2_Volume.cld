@@ -1,0 +1,6 @@
+function Main()
+     Float Pi=3.14,r,V;
+     readline(r);
+     V=4.0/3.0*Pi*r^3;
+     print(V);
+end;
